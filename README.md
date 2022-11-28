@@ -1,6 +1,6 @@
 # Stable Diffusion webui for Colab & Import external models
 
-# English | [繁體中文](./docs/REEADME-cht.md)
+# English | [繁體中文](./docs/README-cht.md)
 
 This repo will guide you how to add more pre-trained model (checkpoint) to your Colab project.
 
