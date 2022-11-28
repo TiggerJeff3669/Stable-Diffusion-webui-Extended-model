@@ -1,6 +1,6 @@
 # Stable Diffusion webui for Colab & 匯入外部模組
 
-# [English](../REEADME.md) | 繁體中文
+# [English](../README.md) | 繁體中文
 
 <br>本專案會引導您添加預先訓練模組 (ckpt/vae)
 
