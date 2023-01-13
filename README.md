@@ -20,7 +20,7 @@ As we know, Colab free version provide GPU and storage with no guarantee, but Te
  * PixelDrain account. (Optional)
 
 # Where models saved?
-I'm upload models to PixelDrain (not propagate)<br>
+I'm upload models to PixelDrain (not affiliated)<br>
 It can keep file 60 days then detele. (If nobody access it.)<br>
 Connect speed 6~20MB/s by cUrl in colab. (If i found better file sharing host)
 
